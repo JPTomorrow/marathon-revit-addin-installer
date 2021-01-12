@@ -1,0 +1,16 @@
+TO:
+
+sgrimsley@marathonelectrical.com;ateeter@marathonelectrical.com;rsargent@marathonelectrical.com;TLMcNutt@marathonelectrical.com; bmgrimsley@marathonelectrical.com;amelvin@marathonelectrical.com;dteasterling@marathonelectrical.com;jcspain@marathonelectrical.com;zbwright@marathonelectrical.com;wdfrost@marathonelectrical.com;kmccormick@marathonelectrical.com
+
+
+Hey Team,
+
+Marathon Revit Addins Version 1.9.1 is now available!
+
+To install or update visit the Y:\ drive and go to:
+
+Y:\Marathon Revit Addins (Justin Morrow)\MarathonScripts 1.8.1.exe
+
+Changelogs and installation information are in the folder with the installer.
+
+Thanks,
