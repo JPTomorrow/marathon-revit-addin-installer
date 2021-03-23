@@ -743,50 +743,82 @@ Close Beam Clamp - 0'  0 1/2"								|C|0.080
 
 #####Wire Labor#####
 
-#Branch Wire
-Wire - #1/0													|M|0.014
-Wire - #1													|M|0.012
-Wire - #2													|M|0.012
-Wire - #3													|M|0.010
-Wire - #4													|M|0.009
-Wire - #6													|M|0.007
-Wire - #8													|M|0.006
-Wire - #10													|M|0.005
-Wire - #12													|M|0.004
-Wire - #14													|M|0.003
+#Branch Copper Wire
+Wire - Copper - #1/0												|M|0.0142
+Wire - Copper - #1													|M|0.0135
+Wire - Copper - #2													|M|0.0124
+Wire - Copper - #3													|M|0.0119
+Wire - Copper - #4													|M|0.0102
+Wire - Copper - #6													|M|0.0089
+Wire - Copper - #8													|M|0.007
+Wire - Copper - #10													|M|0.0062
+Wire - Copper - #12													|M|0.0054
+Wire - Copper - #14													|M|0.0046
 
-#Distribution Wire
-Wire - 2000MCM												|M|0.072
-Wire - 1750MCM												|M|0.069
-Wire - 1500MCM												|M|0.065
-Wire - 1250MCM												|M|0.062
-Wire - 1000MCM												|M|0.059
-Wire - 900MCM												|M|0.055
-Wire - 800MCM												|M|0.052
-Wire - 750MCM												|M|0.049
-Wire - 700MCM												|M|0.045
-Wire - 600MCM												|M|0.042
-Wire - 500MCM												|M|0.039
-Wire - 400MCM												|M|0.035
-Wire - 350MCM												|M|0.032
-Wire - 300MCM												|M|0.028
-Wire - 250MCM												|M|0.024
-Wire - #4/0													|M|0.022
-Wire - #3/0													|M|0.019
-Wire - #2/0													|M|0.016
+#Distribution Copper Wire
+Wire - Copper - 2000MCM												|M|0.072
+Wire - Copper - 1750MCM												|M|0.069
+Wire - Copper - 1500MCM												|M|0.065
+Wire - Copper - 1250MCM												|M|0.062
+Wire - Copper - 1000MCM												|M|0.059
+Wire - Copper - 900MCM												|M|0.055
+Wire - Copper - 800MCM												|M|0.052
+Wire - Copper - 750MCM												|M|0.049
+Wire - Copper - 700MCM												|M|0.045
+Wire - Copper - 600MCM												|M|0.042
+Wire - Copper - 500MCM												|M|0.039
+Wire - Copper - 400MCM												|M|0.035
+Wire - Copper - 350MCM												|M|0.032
+Wire - Copper - 300MCM												|M|0.028
+Wire - Copper - 250MCM												|M|0.024
+Wire - Copper - #4/0												|M|0.022
+Wire - Copper - #3/0												|M|0.019
+Wire - Copper - #2/0												|M|0.0162
 
-#Telecom Wire
-Wire - 18-2 Shielded Stranded Plenum										|M|0.0092
-Wire - 18-3 Shielded Stranded Plenum										|M|0.0105
-Wire - 18-4 Shielded Stranded Plenum										|M|0.0112
-Wire - 18-2 Stranded														|M|0.0092
-Wire - 18-2 Stranded Plenum Cable (Non-Shield)								|M|0.0092
-Wire - 16-2 Stranded Plenum Cable (Non-Shield)								|M|0.0114
-Wire - 16-3 Stranded Plenum Cable (Non-Shield)								|M|0.0120
-Wire - 14AWG THHN/MTW														|M|0.0054
-Wire - 12AWG THHN/MTW														|M|0.0046
-Wire - CAT6																	|M|0.0082
-Wire - #22 AWG - 3 Conductors, Stranded, Shielded Flex Plenum Rated PVC		|M|0.0072
+#Branch Aluminium Wire
+Wire - Aluminium - #1/0												|M|0.0128
+Wire - Aluminium - #1												|M|0.0122
+Wire - Aluminium - #2												|M|0.0112
+Wire - Aluminium - #3												|M|0.010
+Wire - Aluminium - #4												|M|0.0093
+Wire - Aluminium - #6												|M|0.007
+Wire - Aluminium - #8												|M|0.006
+Wire - Aluminium - #10												|M|0.005
+Wire - Aluminium - #12												|M|0.004
+Wire - Aluminium - #14												|M|0.003
+
+#Distribution Aluminium Wire
+Wire - Aluminium - 2000MCM											|M|0.069
+Wire - Aluminium - 1750MCM											|M|0.065
+Wire - Aluminium - 1500MCM											|M|0.060
+Wire - Aluminium - 1250MCM											|M|0.056
+Wire - Aluminium - 1000MCM											|M|0.0504
+Wire - Aluminium - 900MCM											|M|0.048
+Wire - Aluminium - 800MCM											|M|0.0450
+Wire - Aluminium - 750MCM											|M|0.0436
+Wire - Aluminium - 700MCM											|M|0.0405
+Wire - Aluminium - 600MCM											|M|0.0380
+Wire - Aluminium - 500MCM											|M|0.0350
+Wire - Aluminium - 400MCM											|M|0.0316
+Wire - Aluminium - 350MCM											|M|0.0284
+Wire - Aluminium - 300MCM											|M|0.0252
+Wire - Aluminium - 250MCM											|M|0.0218
+Wire - Aluminium - #4/0												|M|0.0194
+Wire - Aluminium - #3/0												|M|0.017
+Wire - Aluminium - #2/0												|M|0.0146
+
+#Low Voltage Wire
+Wire - 18-2SA										        |M|0.0092
+Wire - 18-3S										        |M|0.0105
+Wire - 18-4S										        |M|0.0112
+Wire - 18-2D												|M|0.0092
+Wire - 18-2PWR								                |M|0.0092
+Wire - 16-2PWR							                    |M|0.0114
+Wire - 16-3PWR							                    |M|0.0120
+Wire - 14AWG THHN/MTW										|M|0.0054
+Wire - 12AWG THHN/MTW										|M|0.0046
+Wire - CAT6													|M|0.0082
+Wire - RS-285		                                        |M|0.0072
 
 #####Electrical Room#####
 

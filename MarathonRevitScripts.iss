@@ -1,6 +1,6 @@
 ; General Info
 #define MyAppName "MarathonRevitScripts"
-#define MyAppVersion "1.9.2"
+#define MyAppVersion "2.0.2"
 #define MyAppPublisher "Marathon Electrical LLC."
 #define MyAppURL "www.marathonelectrical.com/marathonsoftware.html"
 #define MyAppExeName "MarathonScripts.exe"
@@ -30,10 +30,12 @@ Type: files; Name: "{commonappdata}\Autodesk\Revit\Addins\2017\MarathonScripts.a
 Type: files; Name: "{commonappdata}\Autodesk\Revit\Addins\2018\MarathonScripts.addin"
 Type: files; Name: "{commonappdata}\Autodesk\Revit\Addins\2019\MarathonScripts.addin"
 Type: files; Name: "{commonappdata}\Autodesk\Revit\Addins\2020\MarathonScripts.addin"
+Type: files; Name: "{commonappdata}\Autodesk\Revit\Addins\2021\MarathonScripts.addin"
 Type: files; Name: "{commonappdata}\Autodesk\Revit\Addins\2017\ScriptUpdater.addin"
 Type: files; Name: "{commonappdata}\Autodesk\Revit\Addins\2018\ScriptUpdater.addin"
 Type: files; Name: "{commonappdata}\Autodesk\Revit\Addins\2019\ScriptUpdater.addin"
 Type: files; Name: "{commonappdata}\Autodesk\Revit\Addins\2020\ScriptUpdater.addin"
+Type: files; Name: "{commonappdata}\Autodesk\Revit\Addins\2021\ScriptUpdater.addin"
 
 [UninstallDelete]
 Type: dirifempty; Name: "{commonappdata}\Autodesk\Revit\Addins\MarathonScripts"

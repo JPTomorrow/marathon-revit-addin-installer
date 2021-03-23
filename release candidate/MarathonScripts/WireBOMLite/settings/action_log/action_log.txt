@@ -57,3 +57,2100 @@ Loaded package at: Y:\Preconstruction Projects\Titan\BOM\Data\Level 2 Area E Ove
 Loaded package at: Y:\Preconstruction Projects\Titan\BOM\Data\Level 2 Area E Overhead Branch.json
 Loaded package at: Y:\Preconstruction Projects\Titan\BOM\Data\Level 2 Area E Overhead Branch.json
 Loaded package at: Y:\Preconstruction Projects\Titan\BOM\Data\Level 2 Area E Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Titan\BOM\Data\Level 2 Area E Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Titan\BOM\Data\Level 2 Area E Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Titan\BOM\Data\Level 2 Area E Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Titan\BOM\Data\Level 2 Area E Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Titan\BOM\Data\Level 2 Area E Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Titan\BOM\Data\Level 2 Area E Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Titan\BOM\Data\Level 2 Area E Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Titan\BOM\Data\Level 2 Area E Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Titan\BOM\Data\Level 2 Area E Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Titan\BOM\Data\Level 2 Area E Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Titan\BOM\Data\Level 2 Area E Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Titan\BOM\Data\Level 2 Area E Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Titan\BOM\Data\Level 2 Area E Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Titan\BOM\Data\Level 2 Area E Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Titan\BOM\Data\Level 2 Area E Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Titan\BOM\Data\Level 2 Area E Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Titan\BOM\Data\Level 2 Area E Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Titan\BOM\Data\Level 2 Area E Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Titan\BOM\Data\Level 2 Area E Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Titan\BOM\Data\Level 2 Area E Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Titan\BOM\Data\Level 2 Area E Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Titan\BOM\Data\Level 2 Area E Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Titan\BOM\Data\Level 2 Area E Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Titan\BOM\Data\Level 2 Area E Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Titan\BOM\Data\Level 2 Area E Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Titan\BOM\Data\Level 2 Area E Overhead Branch.json
+New project file saved atC:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+saved at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Runs Processed: 219
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Runs Processed: 67
+Runs Processed: 3
+Runs Processed: 4
+saved at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Added branch wire.
+Removed selected wire.
+Added branch wire.
+Added distribution wire.
+Added distribution wire.
+saved at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Added distribution wire.
+saved at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+saved at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Removed selected wire.
+Removed selected wire.
+Added distribution wire.
+Added distribution wire.
+saved at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Runs Processed: 219
+Runs Processed: 1
+Runs Processed: 2
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+saved at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Runs Processed: 1
+Runs Processed: 2
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Runs Processed: 5
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Runs Processed: 5
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Runs Processed: 5
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Runs Processed: 5
+Runs Processed: 5
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Runs Processed: 5
+Runs Processed: 5
+Runs Processed: 5
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Runs Processed: 5
+Runs Processed: 5
+Runs Processed: 5
+Runs Processed: 5
+Runs Processed: 5
+Runs Processed: 5
+Runs Processed: 5
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Runs Processed: 5
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Runs Processed: 5
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Runs Processed: 5
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Runs Processed: 5
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Runs Processed: 5
+saved at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Reset Project: {  Labor }
+saved at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+New project file saved atY:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B Branch.json
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B Branch.json
+Runs Processed: 181
+Runs Processed: 37
+Runs Processed: 181
+New project file saved atY:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Runs Processed: 181
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Removed selected wire.
+Removed selected wire.
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Added branch wire.
+Added branch wire.
+Added branch wire.
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+New project file saved atY:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area D.json
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area D.json
+Runs Processed: 170
+Runs Processed: 170
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area D.json
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area D.json
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area D.json
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area D.json
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area D.json
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area D.json
+New project file saved atY:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area E.json
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area E.json
+Runs Processed: 120
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area E.json
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area E.json
+New project file saved atY:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Runs Processed: 158
+Runs Processed: 158
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Runs Processed: 49
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+New project file saved atY:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area E.json
+Reset Project: { Runs Wire }
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area E.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area E.json
+Runs Processed: 43
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area E.json
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Removed selected wire.
+Removed selected wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area E.json
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area E.json
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area E.json
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area E.json
+New project file saved atY:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area D.json
+Runs Processed: 62
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area D.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Project file loaded from Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Added 20 single hangers.
+Removed 20 single hangers.
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Added 0 strut hangers.
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Added 1 strut hangers.
+Added 36 strut hangers.
+Removed 36 Strut hangers.
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Added 1 strut hangers.
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Added 0 strut hangers.
+Added 0 strut hangers.
+Added 0 strut hangers.
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Added 1 strut hangers.
+Added 36 strut hangers.
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Added 3 single hangers.
+Added 3 single hangers.
+Added 3 single hangers.
+Added 3 single hangers.
+Added 3 single hangers.
+Added 3 single hangers.
+Added 3 single hangers.
+Added 3 single hangers.
+Added 3 single hangers.
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area F.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area E.json
+Project file loaded from Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area E.json
+Added 30 strut hangers.
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area E.json
+Added 22 single hangers.
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area E.json
+Added 22 single hangers.
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area E.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area D.json
+Project file loaded from Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area D.json
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area D.json
+Added 47 strut hangers.
+Added 4 single hangers.
+Added 4 single hangers.
+Added 4 single hangers.
+Added 4 single hangers.
+Added 4 single hangers.
+Added 4 single hangers.
+Added 4 single hangers.
+Added 4 single hangers.
+Removed 12 single hangers.
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area D.json
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area D.json
+Removed 47 Strut hangers.
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area D.json
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area D.json
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area D.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Project file loaded from Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+New project file saved atY:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Runs Processed: 66
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Added 35 strut hangers.
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Added 21 single hangers.
+Added 2 single hangers.
+Added 2 single hangers.
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+saved at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Added 25 wire pairings
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Added 25 wire pairings
+Removed 25 wire pairings
+Added 25 wire pairings
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Added 25 wire pairings
+Removed 25 wire pairings
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Added 27 device pairings
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Added 27 device pairings
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Added 27 device pairings
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Added 27 device pairings
+Added 25 wire pairings
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Added 29 wire pairings
+Added 27 device pairings
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Added 27 device pairings
+Loaded package at: Y:\Preconstruction Projects\Madison Crossings\BOM\Data\Second Floor Area A&B.json
+Added 27 device pairings
+Added 29 wire pairings
+New project file saved atC:\Users\Jmorrow\Desktop\TEST BED\a.json
+saved at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+New project file saved atC:\Users\Jmorrow\Desktop\TEST BED\a.json
+Added 27 device pairings
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Added 27 device pairings
+Added 29 wire pairings
+saved at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Runs Processed: 17
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Runs Processed: 17
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Runs Processed: 17
+Runs Processed: 17
+Runs Processed: 17
+Removed selected wire.
+Removed selected wire.
+Runs Processed: 17
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+New project file saved atY:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 63
+Runs Processed: 63
+Runs Processed: 392
+New project file saved atY:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-1 Overhead.json
+Runs Processed: 165
+Runs Processed: 165
+Runs Processed: 165
+Runs Processed: 165
+Runs Processed: 165
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-1 Overhead.json
+Runs Processed: 54
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-1 Overhead.json
+Added 25 strut hangers.
+Added 125 single hangers.
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-1 Overhead.json
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-1 Overhead.json
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-1 Overhead.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-1 Overhead.json
+New project file saved atC:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\a.json
+New project file saved atY:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-1 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Project file loaded from Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-1 Overhead.json
+Project file loaded from Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-1 Overhead.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Project file loaded from Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 63
+Runs Processed: 65
+Runs Processed: 64
+Runs Processed: 64
+Runs Processed: 65
+Runs Processed: 64
+Runs Processed: 65
+Runs Processed: 64
+Runs Processed: 65
+Runs Processed: 65
+Runs Processed: 64
+Runs Processed: 65
+Runs Processed: 65
+Runs Processed: 66
+Runs Processed: 66
+Runs Processed: 65
+Runs Processed: 65
+Runs Processed: 65
+Runs Processed: 64
+Runs Processed: 65
+Runs Processed: 65
+Runs Processed: 64
+Runs Processed: 66
+Runs Processed: 66
+Runs Processed: 65
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 75
+Runs Processed: 74
+Runs Processed: 75
+Runs Processed: 75
+Runs Processed: 74
+Runs Processed: 76
+Runs Processed: 75
+Runs Processed: 74
+Runs Processed: 74
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 271
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 64
+Runs Processed: 64
+Runs Processed: 66
+Runs Processed: 65
+Runs Processed: 64
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 64
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 65
+Runs Processed: 65
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 66
+Runs Processed: 65
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 64
+Runs Processed: 64
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 64
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 66
+Runs Processed: 66
+Runs Processed: 64
+Runs Processed: 65
+Runs Processed: 65
+Runs Processed: 66
+Runs Processed: 66
+Runs Processed: 66
+Runs Processed: 66
+Runs Processed: 65
+Runs Processed: 64
+Runs Processed: 65
+Runs Processed: 65
+Runs Processed: 64
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 66
+Runs Processed: 65
+Runs Processed: 65
+Runs Processed: 66
+Runs Processed: 66
+Runs Processed: 65
+Runs Processed: 65
+Runs Processed: 66
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 66
+Runs Processed: 64
+Runs Processed: 65
+Runs Processed: 65
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 0
+Runs Processed: 0
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 349
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 2
+Runs Processed: 2
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 71
+Runs Processed: 69
+Runs Processed: 69
+Runs Processed: 70
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 71
+Runs Processed: 71
+Runs Processed: 69
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 70
+Runs Processed: 70
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 69
+Runs Processed: 70
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 68
+Runs Processed: 71
+Runs Processed: 71
+Runs Processed: 69
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 6
+Runs Processed: 6
+Runs Processed: 6
+Runs Processed: 6
+Runs Processed: 6
+Runs Processed: 6
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 66
+Runs Processed: 66
+Runs Processed: 65
+Runs Processed: 65
+Runs Processed: 65
+Runs Processed: 66
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 65
+Runs Processed: 65
+Runs Processed: 64
+Runs Processed: 66
+Runs Processed: 65
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 65
+Runs Processed: 64
+Runs Processed: 64
+Runs Processed: 65
+Runs Processed: 65
+Runs Processed: 64
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 66
+Runs Processed: 64
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 64
+Runs Processed: 66
+Runs Processed: 65
+Runs Processed: 66
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 349
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Reset Project: { Runs }
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 12
+Runs Processed: 12
+Runs Processed: 12
+Runs Processed: 12
+Runs Processed: 12
+Runs Processed: 12
+Runs Processed: 12
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 12
+Runs Processed: 12
+Runs Processed: 12
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 12
+Runs Processed: 12
+Runs Processed: 12
+Runs Processed: 12
+Runs Processed: 12
+Runs Processed: 12
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 12
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 12
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 6
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 6
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 6
+Runs Processed: 6
+Runs Processed: 6
+Runs Processed: 6
+Runs Processed: 6
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 70
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 72
+Runs Processed: 71
+Runs Processed: 70
+Runs Processed: 72
+Runs Processed: 70
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 72
+Runs Processed: 71
+Runs Processed: 71
+Runs Processed: 71
+Runs Processed: 72
+Runs Processed: 71
+Runs Processed: 71
+Runs Processed: 71
+Runs Processed: 70
+Runs Processed: 71
+Runs Processed: 72
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 71
+Runs Processed: 71
+Runs Processed: 72
+Runs Processed: 71
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 71
+Runs Processed: 72
+Runs Processed: 71
+Runs Processed: 71
+Runs Processed: 72
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 72
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 72
+Runs Processed: 71
+Runs Processed: 71
+Runs Processed: 71
+Runs Processed: 71
+Runs Processed: 71
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 72
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 72
+Runs Processed: 70
+Runs Processed: 71
+Runs Processed: 71
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 70
+Runs Processed: 71
+Runs Processed: 71
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 71
+Runs Processed: 71
+Runs Processed: 72
+Runs Processed: 71
+Runs Processed: 72
+Runs Processed: 71
+Runs Processed: 72
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 71
+Runs Processed: 71
+Runs Processed: 71
+Runs Processed: 71
+Runs Processed: 72
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 63
+Runs Processed: 64
+Runs Processed: 63
+Runs Processed: 64
+Runs Processed: 64
+Runs Processed: 64
+Runs Processed: 62
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 72
+Runs Processed: 72
+Runs Processed: 71
+Runs Processed: 72
+Runs Processed: 71
+Runs Processed: 72
+Runs Processed: 71
+Runs Processed: 71
+Runs Processed: 70
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 72
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 249
+Runs Processed: 249
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 248
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 248
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 248
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 249
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 249
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 249
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 248
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 249
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 247
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 1831
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 220
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 744
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 744
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 19
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 19
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 316
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 316
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 618
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 618
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 618
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 618
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 618
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 618
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Added 27 device pairings
+Added 29 wire pairings
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+Runs Processed: 618
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.json
+New project file saved atC:\Users\Jmorrow\Desktop\TEST BED\test.bom
+saved at: C:\Users\Jmorrow\Desktop\TEST BED\test.bom
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\test.bom
+New project file saved atC:\Users\Jmorrow\Desktop\TEST BED\test.bom
+New project file saved atC:\Users\Jmorrow\Desktop\TEST BED\test.bom
+New project file saved atC:\Users\Jmorrow\Desktop\TEST BED\test.test.test.bom
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\test.test.test.bom
+New project file saved atC:\Users\Jmorrow\Desktop\TEST BED\test.test.test.bom
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\test.test.test.bom
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\test.test.test.bom
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\test.test.test.bom
+New project file saved atY:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+Runs Processed: 64
+Runs Processed: 64
+Runs Processed: 65
+Runs Processed: 65
+Runs Processed: 63
+Runs Processed: 65
+Runs Processed: 65
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+Runs Processed: 64
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+Runs Processed: 1155
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+Reset Project: { Runs }
+Runs Processed: 1155
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+Runs Processed: 251
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+Runs Processed: 63
+Runs Processed: 63
+New project file saved atY:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+Runs Processed: 63
+Runs Processed: 63
+Runs Processed: 63
+Runs Processed: 679
+New project file saved atY:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+Runs Processed: 679
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+Runs Processed: 64
+Runs Processed: 64
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Removed selected wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Removed selected wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+Added 35 strut hangers.
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+Added 111 single hangers.
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\PL-2 Overhead Branch.bom
+New project file saved atY:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Reset Project: { Package Settings }
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Reset Project: { Package Settings }
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Runs Processed: 57
+Runs Processed: 57
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Added 0 strut hangers.
+Added 0 strut hangers.
+Added 0 strut hangers.
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Added 0 strut hangers.
+Added 0 strut hangers.
+Added 20 strut hangers.
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Added 182 single hangers.
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+New project file saved atC:\Users\Jmorrow\Desktop\TEST BED\test.test.test.bom
+Runs Processed: 86
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\test.test.test.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Project file loaded from Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\test.test.test.bom
+Project file loaded from C:\Users\Jmorrow\Desktop\TEST BED\test.test.test.bom
+Runs Processed: 86
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\test.test.test.bom
+Runs Processed: 86
+Loaded package at: C:\Users\Jmorrow\Desktop\TEST BED\test.test.test.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Project file loaded from Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch.bom
+New project file saved atY:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Telecom - Distribution.bom
+Runs Processed: 206
+Runs Processed: 206
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Telecom - Distribution.bom
+New project file saved atY:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+New project file saved atY:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Telecom.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Telecom.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Project file loaded from Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Runs Processed: 188
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Added branch wire.
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Added distribution wire.
+Removed selected wire.
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Added distribution wire.
+Removed selected wire.
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Reset Project: {  Labor }
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Removed selected wire.
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Added distribution wire.
+Removed selected wire.
+Removed selected wire.
+Removed selected wire.
+Removed selected wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Added distribution wire.
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Added distribution wire.
+Removed selected wire.
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+Added 31 strut hangers.
+Added 495 single hangers.
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Branch - Distribution.bom
+New project file saved atY:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Telecom.bom
+Runs Processed: 18
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Telecom.bom
+Reset Project: {  Labor }
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Telecom.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Telecom.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Telecom.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Telecom.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Telecom.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Telecom.bom
+New project file saved atY:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Fire Alarm.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Fire Alarm.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Fire Alarm.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Fire Alarm.bom
+Runs Processed: 81
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Fire Alarm.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Fire Alarm.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\1st Floor Fire Alarm.bom
+New project file saved atY:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2nd Floor Branch - Distribution.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2nd Floor Branch - Distribution.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2nd Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2nd Floor Branch - Distribution.bom
+Runs Processed: 94
+Runs Processed: 47
+Runs Processed: 47
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Removed selected wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2nd Floor Branch - Distribution.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2nd Floor Branch - Distribution.bom
+Added 21 strut hangers.
+Added 85 single hangers.
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2nd Floor Branch - Distribution.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2nd Floor Branch - Distribution.bom
+New project file saved atY:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2nd Floor Telecom.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2nd Floor Telecom.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2nd Floor Telecom.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2nd Floor Telecom.bom
+New project file saved atY:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2st Floor Fire Alarm.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2st Floor Fire Alarm.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2st Floor Fire Alarm.bom
+Runs Processed: 103
+Runs Processed: 103
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2st Floor Fire Alarm.bom
+Runs Processed: 238
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2st Floor Fire Alarm.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2st Floor Fire Alarm.bom
+Runs Processed: 103
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2st Floor Fire Alarm.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2st Floor Fire Alarm.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2st Floor Fire Alarm.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2st Floor Fire Alarm.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2st Floor Fire Alarm.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2st Floor Fire Alarm.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2st Floor Fire Alarm.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2st Floor Fire Alarm.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2st Floor Fire Alarm.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2nd Floor Telecom.bom
+Project file loaded from Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2nd Floor Telecom.bom
+Runs Processed: 11
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2nd Floor Telecom.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2nd Floor Telecom.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2nd Floor Telecom.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2nd Floor Telecom.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2nd Floor Telecom.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2nd Floor Telecom.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2nd Floor Telecom.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2nd Floor Telecom.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\2nd Floor Telecom.bom
+New project file saved atY:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 9 Underground Distribution.bom
+saved at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 9 Underground Distribution.bom
+saved at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 9 Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 9 Underground Distribution.bom
+Runs Processed: 55
+Runs Processed: 55
+Runs Processed: 55
+Runs Processed: 55
+Runs Processed: 55
+Runs Processed: 55
+Runs Processed: 55
+Runs Processed: 20
+Runs Processed: 55
+Runs Processed: 14
+Runs Processed: 55
+Runs Processed: 55
+Runs Processed: 55
+Runs Processed: 55
+Runs Processed: 55
+Runs Processed: 55
+saved at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 9 Underground Distribution.bom
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+saved at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 9 Underground Distribution.bom
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+saved at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 9 Underground Distribution.bom
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+saved at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 9 Underground Distribution.bom
+saved at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 9 Underground Distribution.bom
+saved at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 9 Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 9 Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 9 Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 9 Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 9 Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 9 Underground Distribution.bom
+saved at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 9 Underground Distribution.bom
+saved at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 9 Underground Distribution.bom
+New project file saved atY:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 10 Underground Distribution.bom
+saved at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 10 Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 10 Underground Distribution.bom
+Runs Processed: 60
+Runs Processed: 60
+Runs Processed: 60
+Runs Processed: 60
+Runs Processed: 60
+Runs Processed: 60
+Runs Processed: 60
+Runs Processed: 60
+saved at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 10 Underground Distribution.bom
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Removed selected wire.
+saved at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 10 Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 10 Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 10 Underground Distribution.bom
+saved at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 10 Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 10 Underground Distribution.bom
+Added branch wire.
+Removed selected wire.
+Added branch wire.
+Removed selected wire.
+Loaded package at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 10 Underground Distribution.bom
+Added branch wire.
+Loaded package at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 10 Underground Distribution.bom
+Added branch wire.
+Removed selected wire.
+Added branch wire.
+Removed selected wire.
+Added branch wire.
+Loaded package at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 10 Underground Distribution.bom
+Added branch wire.
+Loaded package at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 10 Underground Distribution.bom
+Added branch wire.
+Removed selected wire.
+Loaded package at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 10 Underground Distribution.bom
+Added branch wire.
+Loaded package at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 10 Underground Distribution.bom
+Added branch wire.
+Loaded package at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 10 Underground Distribution.bom
+Added branch wire.
+Removed selected wire.
+Loaded package at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 10 Underground Distribution.bom
+Added branch wire.
+Removed selected wire.
+Loaded package at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 10 Underground Distribution.bom
+Added branch wire.
+Removed selected wire.
+Added branch wire.
+Removed selected wire.
+Added branch wire.
+Removed selected wire.
+Added branch wire.
+Removed selected wire.
+Added branch wire.
+Removed selected wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added branch wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+saved at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 10 Underground Distribution.bom
+saved at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 10 Underground Distribution.bom
+saved at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 10 Underground Distribution.bom
+saved at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 10 Underground Distribution.bom
+saved at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 10 Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 10 Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Alys Beach Condos\BOM\Data\Building 10 Underground Distribution.bom
+New project file saved atY:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground.bom
+New project file saved atY:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground Distribution.bom
+Runs Processed: 75
+Runs Processed: 18
+Runs Processed: 74
+Runs Processed: 75
+Runs Processed: 23
+Runs Processed: 73
+Runs Processed: 73
+Runs Processed: 73
+Runs Processed: 77
+Runs Processed: 73
+Runs Processed: 77
+Runs Processed: 75
+Runs Processed: 5
+Runs Processed: 74
+Runs Processed: 74
+Runs Processed: 74
+Runs Processed: 75
+Runs Processed: 74
+Runs Processed: 74
+Runs Processed: 74
+saved at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground Distribution.bom
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Runs Processed: 12
+Runs Processed: 74
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Removed selected wire.
+saved at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground Distribution.bom
+saved at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground Distribution.bom
+saved at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground Distribution.bom
+saved at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground Distribution.bom
+Added low voltage wire.
+Added distribution wire.
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground Distribution.bom
+Project file loaded from Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Underground Distribution.bom
+New project file saved atY:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+saved at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+saved at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+saved at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Runs Processed: 45
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+saved at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Runs Processed: 4
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Runs Processed: 118
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Runs Processed: 116
+Runs Processed: 4
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Runs Processed: 119
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Runs Processed: 117
+Runs Processed: 115
+Runs Processed: 118
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+Runs Processed: 116
+saved at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Inside Building Underground Distribution.bom
+New project file saved atY:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Outside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Outside Building Underground Distribution.bom
+Runs Processed: 45
+saved at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Outside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Outside Building Underground Distribution.bom
+Runs Processed: 88
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Outside Building Underground Distribution.bom
+Runs Processed: 88
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Outside Building Underground Distribution.bom
+Runs Processed: 88
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Outside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Outside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Outside Building Underground Distribution.bom
+Added 616 device pairings
+Added 0 wire pairings
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Outside Building Underground Distribution.bom
+Added 647 device pairings
+Added 28 wire pairings
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Outside Building Underground Distribution.bom
+Runs Processed: 1
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Outside Building Underground Distribution.bom
+Runs Processed: 88
+Runs Processed: 89
+Runs Processed: 90
+Runs Processed: 91
+Runs Processed: 88
+Runs Processed: 88
+Runs Processed: 88
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Outside Building Underground Distribution.bom
+Added 647 device pairings
+Added 30 wire pairings
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Outside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Outside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Outside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Outside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Outside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Outside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Outside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Outside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Outside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Outside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Outside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Outside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Outside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Outside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Outside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Outside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Outside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Outside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Outside Building Underground Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\UAB Science & Engineering\BOM\Data\Outside Building Underground Distribution.bom
+New project file saved atY:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+Runs Processed: 74
+Runs Processed: 87
+Cleared 87 conduit runs
+Runs Processed: 74
+Runs Processed: 87
+Cleared 87 conduit runs
+Runs Processed: 13
+Cleared 13 conduit runs
+Runs Processed: 13
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+Runs Processed: 13
+Cleared 13 conduit runs
+All runs have been updated
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+Runs Processed: 13
+Cleared 13 conduit runs
+All runs have been updated
+Runs Processed: 13
+Cleared 13 conduit runs
+All runs have been updated
+Runs Processed: 13
+Cleared 13 conduit runs
+Runs Processed: 13
+Cleared 13 conduit runs
+All runs have been updated
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+Runs Processed: 13
+Cleared 13 conduit runs
+All runs have been updated
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+Runs Processed: 13
+Cleared 13 conduit runs
+All runs have been updated
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+Runs Processed: 13
+All runs have been updated
+Runs Processed: 13
+All runs have been updated
+Runs Processed: 13
+All runs have been updated
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+Runs Processed: 13
+All runs have been updated
+Runs Processed: 13
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+Runs Processed: 13
+All runs have been updated
+Runs Processed: 13
+All runs have been updated
+Runs Processed: 13
+All runs have been updated
+Runs Processed: 13
+All runs have been updated
+Runs Processed: 13
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+Runs Processed: 13
+All runs have been updated
+Runs Processed: 13
+All runs have been updated
+Runs Processed: 13
+All runs have been updated
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+Runs Processed: 13
+All runs have been updated
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+Runs Processed: 13
+All runs have been updated
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+Runs Processed: 13
+All runs have been updated
+Runs Processed: 13
+All runs have been updated
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+Runs Processed: 13
+All runs have been updated
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+Runs Processed: 13
+Runs Processed: 26
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+Runs Processed: 13
+All runs have been updated
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+Runs Processed: 13
+All runs have been updated
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+Runs Processed: 13
+All runs have been updated
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+Runs Processed: 13
+All runs have been updated
+All runs have been updated
+All runs have been updated
+Runs Processed: 26
+All runs have been updated
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+Runs Processed: 13
+All runs have been updated
+Runs Processed: 26
+All runs have been updated
+Runs Processed: 17
+All runs have been updated
+All runs have been updated
+Cleared 17 conduit runs
+Runs Processed: 74
+Runs Processed: 87
+1 selected runs were removed
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+Added branch wire.
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+Added branch wire.
+Added branch wire.
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+Added branch wire.
+Added branch wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Removed selected wire.
+Added distribution wire.
+Added distribution wire.
+Removed selected wire.
+Added distribution wire.
+Added distribution wire.
+Removed selected wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Removed selected wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+Runs Processed: 95
+8 selected runs were removed
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+Runs Processed: 174
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\3nd Floor Branch - Distribution.bom
+New project file saved atY:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\4nd Floor All.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\4nd Floor All.bom
+Runs Processed: 76
+All runs have been updated
+1 selected runs were removed
+Cleared 75 conduit runs
+Runs Processed: 75
+Added branch wire.
+Added branch wire.
+Added branch wire.
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\4nd Floor All.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\4nd Floor All.bom
+Runs Processed: 87
+All runs have been updated
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+Added distribution wire.
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\4nd Floor All.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\4nd Floor All.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\4nd Floor All.bom
+Runs Processed: 92
+Runs Processed: 190
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\4nd Floor All.bom
+saved at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\4nd Floor All.bom
+Loaded package at: Y:\Preconstruction Projects\Grandview POB II & Deck - 08-20-022\BOM\Data\4nd Floor All.bom
+New project file saved atY:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Runs Processed: 566
+Runs Processed: 1128
+Cleared 1128 conduit runs
+Runs Processed: 562
+Cleared 562 conduit runs
+Runs Processed: 563
+Cleared 563 conduit runs
+Runs Processed: 560
+Cleared 560 conduit runs
+Runs Processed: 559
+Cleared 559 conduit runs
+Runs Processed: 562
+Cleared 562 conduit runs
+Runs Processed: 559
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
+Loaded package at: Y:\Preconstruction Projects\Pensacola Baptist Health Hospital\BOM\Data\Distribution Raw Export.bom
