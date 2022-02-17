@@ -1,0 +1,318 @@
+<!--
+  Addins:
+  
+  Added 
+  {
+    Conduit Run Info
+    Conduit Workset Match
+    Conduit To/From Match
+    Conduit Match Params Service
+    JBox To/From Swap
+    Pull Box Sizer
+    JBox Tag Largest Diameter
+    Align 3D View To Scope Box
+    Fit Floorplan Crop Region
+    Selected Find View
+  }
+
+  Pending
+  {
+    B.O.M. Generator
+    Fixture To Structure Tag
+  }
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="A help page for all of the Revit addins">
+    <meta name="author" content="Justin Morrow">
+    <title>Marathon Revit Addins Help</title>
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/simple-sidebar.css" rel="stylesheet">
+  </head>
+
+  <body>
+    <div class="d-flex" id="wrapper">
+
+      <!-- Sidebar -->
+      <div id="sidebar-wrapper">
+        <div id="sidebar-list" class="list-group list-group-flush">
+          <a onclick="scrollToTargetAdjusted('conduit-run-info');" class="list-group-item list-group-item-action">Conduit Run Info</a>
+          <a onclick="scrollToTargetAdjusted('conduit-workset-match');" class="list-group-item list-group-item-action">Conduit Workset Match</a>
+          <a onclick="scrollToTargetAdjusted('conduit-to-from-match');" class="list-group-item list-group-item-action">Conduit To/From Match</a>
+          <a onclick="scrollToTargetAdjusted('conduit-match-params-service');" class="list-group-item list-group-item-action">Conduit Match Params Service</a>
+          <a onclick="scrollToTargetAdjusted('jbox-to-from-swap');" class="list-group-item list-group-item-action">JBox To/From Swap</a>
+          <a onclick="scrollToTargetAdjusted('pull-box-sizer');" class="list-group-item list-group-item-action">Pull Box Sizer</a>
+          <a onclick="scrollToTargetAdjusted('bom-generator');" class="list-group-item list-group-item-action">B.O.M. Generator</a>
+          <a onclick="scrollToTargetAdjusted('fixture-to-structure-tag');" class="list-group-item list-group-item-action">Fixture To Structure Tag</a>
+          <a onclick="scrollToTargetAdjusted('jbox-tag-largest-diameter');" class="list-group-item list-group-item-action">JBox Tag Largest Diameter</a>
+          <a onclick="scrollToTargetAdjusted('align-scope-box');" class="list-group-item list-group-item-action">Align 3D View To Scope Box</a>
+          <a onclick="scrollToTargetAdjusted('fit-floorplan-crop');" class="list-group-item list-group-item-action">Fit Floorplan Crop</a>
+          <a onclick="scrollToTargetAdjusted('selected-find-view');" class="list-group-item list-group-item-action">Selected Find View</a>
+        </div>
+      </div>jbox-tag-largest-diameter
+      <!-- /#sidebar-wrapper -->
+
+      <!-- Page Content -->
+      <div id="page-content-wrapper">
+
+        <nav id="top-navbar" class="navbar navbar-expand-lg navbar-light">
+          <h2>Marathon Revit Addins</h2>
+          <button class="btn btn-primary" id="menu-toggle">Menu</button>
+
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+        </nav>
+
+        <div id="main-content" class="container-fluid">
+
+          <!-- Conduit Run Info -->
+          <h1 id="conduit-run-info" class="custom-header mt-4">Conduit Run Info</h1> <hr/>
+          <p class="content-margin p-content">
+            This is a simple addin that tells the user the following properties of the currently selected conduit run:
+          </p>
+          <ul class="custom-ul">
+            <li>The length of the conduit run.</li>
+            <li>The diameter of the run.</li>
+            <li>The total angle of bends in the run.</li>
+            <li>The type of material the run is made from.</li>
+            <li>The 'From' and 'To' parameters of the run.</li>
+          </ul>
+
+          <h3 class="custom-sub-header">Usage Steps</h3>
+          <ol class="usage-steps">
+            <li>Tab into a conduit run in Revit, selecting the whole run.</li>
+            <li>Click on the 'Conduit Run Info' addin in the 'Marathon Addins' Tab.</li>
+            <li>Information will be displayed about the conduit run.</li>
+          </ol>
+
+          <!-- Conduit Workset Match -->
+          <h1 id="conduit-workset-match" class="custom-header mt-4">Conduit Workset Match</h1> <hr/>
+          <p class="content-margin p-content">
+            This program takes the workset parameter from one stick of conduit and applies it to selected conduit runs.
+          </p>
+
+          <h3 class="custom-sub-header">Usage Steps</h3>
+          <ol class="usage-steps">
+            <li>Click the 'Conduit Workset Match' button in the Marathon Add-ins ribbon.</li>
+            <li>Your view in Revit will be put into a mode where only conduit is able to be selected.</li>
+            <li>You will select two conduits.</li>
+            <li>The first conduit is the conduit that you want to copy the workset from.</li>
+            <li>The second conduit selected is the conduit run to which you want push the workset infomation.</li>
+            <li>After selecting the second conduit, the workset will be pushed to it, and then the program will continue to loop.</li>
+            <li>You may select two more conduits and continue pushing worksets with this loop.</li>
+            <li>Press escape to exit the loop and continue working in Revit.</li>
+          </ol>
+
+          <!-- Conduit To/From Match -->
+          <h1 id="conduit-to-from-match" class="custom-header mt-4">Conduit To/From Match</h1> <hr/>
+          <p class="content-margin p-content">
+            This program takes the 'To', 'From', 'Comments', 'Set(s)' and 'Wire Size'  parameter from one stick of conduit and applies it to selected conduit runs.
+          </p>
+
+          <h3 class="custom-sub-header">Usage Steps</h3>
+          <ol class="usage-steps">
+            <li>Click the 'Conduit To/From Match' button in the Marathon Add-ins ribbon.</li>
+            <li>Your view in Revit will be put into a mode where only conduit is able to be selected.</li>
+            <li>You will select two conduits.</li>
+            <li>The first conduit is the conduit that you want to copy the parameter information from.</li>
+            <li>The second conduit selected is the conduit run to which you want push the parameter infomation.</li>
+            <li>After selecting the second conduit, the workset will be pushed to it, and then the program will continue to loop.</li>
+            <li>You may select two more conduits and continue pushing parameter information with this loop.</li>
+            <li>Press escape to exit the loop and continue working in Revit.</li>
+          </ol>
+
+          <!-- Conduit Match Params Service Info -->
+          <h1 id="conduit-match-params-service" class="custom-header mt-4">Conduit Match Params Service</h1> <hr/>
+          <p class="content-margin p-content">
+            This program takes the 'To' and 'From'  parameter from one stick of conduit and pushes it down the whole conduit run.
+            This program is a running service that once launched, will listen for changes to those parameters 
+            and and pushes the parameters down the conduit run.
+          </p>
+
+          <h3 class="custom-sub-header">Usage Steps</h3>
+          <ol class="usage-steps">
+            <li>Click the 'Conduit Match Params Service' button in the Marathon Add-ins ribbon.</li>
+            <li>The service will be running when you click this button.</li>
+            <li>
+              To test that the service is working, go to a conduit run and change a 'To' or 'From' parameter. 
+              The changed parameter should propogate down the whole run.
+            </li>
+            <li>A dialog box with a disable button should show when you launch the program.</li>
+            <li>If you close the dialog box you can reopen it by clicking on the 'Conduit Match Params Service' button.</li>
+            <li>If you press the disable button in this window, the running service will be disabled. You may close this window afterwards.</li>
+          </ol>
+
+          <!-- JBox To/From Match -->
+          <h1 id="jbox-to-from-swap" class="custom-header mt-4">JBox To/From Match</h1> <hr/>
+          <p class="content-margin p-content">
+            This program swaps the 'To' and 'From' parameter for all selected junction boxes.
+          </p>
+
+          <h3 class="custom-sub-header">Usage Steps</h3>
+          <ol class="usage-steps">
+            <li>Select junction boxes that you want to swap parameters on in your Revit view.</li>
+            <li>Click the 'JBox To/From Match' button in the Marathon Add-ins ribbon.</li>
+          </ol>
+
+          <!-- Pull Box Sizer -->
+          <h1 id="pull-box-sizer" class="custom-header mt-4">Pull Box Sizer</h1> <hr/>
+          <p class="content-margin p-content">
+            This program that aids the user in sizing pull boxes given the connecting conduit sizes.
+          </p>
+
+          <h3 class="custom-sub-header">Usage Steps</h3>
+          <ol class="usage-steps">
+            <li>Click the 'Pull Box Sizer' button in the Marathon Add-ins ribbon. A dialog box will pop up.</li>
+            <li>The first step is a check box. Checked if it is a straight pull through the box, unchecked is for boxes with angled pulls</li>
+            <li>The second step is to select the largest diameter conduit in the run.</li>
+            <li>The third step is select the remaining conduit sizes and click the 'Add' button to add them to the list.</li>
+            <li>
+              At this point, you may click the 'Get Sizing' button in order to display the height, width, and depth of the desired box
+              If you select a generic pull box in Revit before clicking this button, the pull box will be automatically sized in the model.
+            </li>
+          </ol>
+
+          <h3 class="custom-sub-header">Tutorial Videos</h3>
+          <video class="tutorial_video" controls>
+            <source src="file:///C:/ProgramData/Autodesk/Revit/Addins/MarathonScripts/MarathonHelp/web/videos/pull_box_sizer_1.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+          </video> 
+
+          <!-- B.O.M. Generator -->
+          <h1 id="bom-generator" class="custom-header mt-4">B.O.M. Generator</h1> <hr/>
+          <p class="content-margin p-content">
+            Tutorial coming soon.
+          </p>
+
+          <!-- Fixture To Structure Tag -->
+          <h1 id="fixture-to-structure-tag" class="custom-header mt-4">Fixture To Structure Tag</h1> <hr/>
+          <p class="content-margin p-content">
+            Tutorial coming soon.
+          </p>
+
+          <!-- JBox Tag Largest Diameter -->
+          <h1 id="jbox-tag-largest-diameter" class="custom-header mt-4">JBox Tag Largest Diameter</h1> <hr/>
+          <p class="content-margin p-content">
+            This program generates a parameter for tagging and fills it with the largest attached conduit diameter.
+          </p>
+
+          <h3 class="custom-sub-header">Usage Steps</h3>
+          <ol class="usage-steps">
+            <li>Select the junction boxes you would like to tag.</li>
+            <li>Click on the 'JBox Tag Largest Diameter' button in the Marathon Add-ins ribbon.</li>
+            <li>A new parameter will be generated on the junction boxes called 'Largest Attached Diameter'.</li>
+            <li>The new parameter will be filled with the largest attached diameter of conduit to the junction box.</li>
+            <li>After this edit an electrical fixture tag family to use the new parameter and then tag the junction box.</li>
+          </ol>
+
+          <!-- Align 3D View To Scope Box -->
+          <h1 id="align-scope-box" class="custom-header mt-4">Align 3D View To Scope Box</h1> <hr/>
+          <p class="content-margin p-content">
+            This program aligns the section box in the active 3D view in Revit to a selected scope box.
+          </p>
+
+          <h3 class="custom-sub-header">Usage Steps</h3>
+          <ol class="usage-steps">
+            <li>Make sure a 3D view is your currently active view in Revit.</li>
+            <li>Select a scope box in that same 3D view.</li>
+            <li>Click the 'Align 3D View To Scope Box' button in the Marathon Add-ins ribbon.</li>
+            <li>The 3D views section box will be aligned to the selected scope box.</li>
+          </ol>
+
+          <h3 class="custom-sub-header">Tutorial Videos</h3>
+          <video class="tutorial_video" controls>
+            <source src="file:///C:/ProgramData/Autodesk/Revit/Addins/MarathonScripts/MarathonHelp/web/videos/align_to_scope_box_1.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+          </video> 
+
+          <!-- Fit Floorplan Crop -->
+          <h1 id="fit-floorplan-crop" class="custom-header mt-4">Fit Floorplan Crop</h1> <hr/>
+          <p class="content-margin p-content">
+            This program takes selected elements in a floorplan view and fits the crop region of the view around them.
+          </p>
+
+          <h3 class="custom-sub-header">Usage Steps</h3>
+          <ol class="usage-steps">
+            <li>Make sure a floorplan view is your currently active view in Revit.</li>
+            <li>Select elements in that view that you want to be encompassed by the crop region.</li>
+            <li>Click the 'Fit Floorplan Crop' button in the Marathon Add-ins ribbon.</li>
+            <li>The crop region should now be fitted to the selected elements.</li>
+          </ol>
+
+          <h3 class="custom-sub-header">Tutorial Videos</h3>
+          <video class="tutorial_video" controls>
+            <source src="file:///C:/ProgramData/Autodesk/Revit/Addins/MarathonScripts/MarathonHelp/web/videos/fit_floorplan_crop_1.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+          </video> 
+
+          <!-- Selected Find View -->
+          <h1 id="selected-find-view" class="custom-header mt-4">Selected Find View</h1> <hr/>
+          <p class="content-margin p-content">
+            This program can be used to search for elements in the model by a specific parameter value, 
+            and list the available Revit views that they are in.
+          </p>
+
+          <h3 class="custom-sub-header">Usage Steps</h3>
+          <ol class="usage-steps">
+            <li>Make sure a floorplan view is your currently active view in Revit.</li>
+            <li>Select elements in that view that you want to be encompassed by the crop region.</li>
+            <li>Click the 'Fit Floorplan Crop' button in the Marathon Add-ins ribbon.</li>
+            <li>The crop region should now be fitted to the selected elements.</li>
+          </ol>
+
+          <h3 class="custom-sub-header">Tutorial Videos</h3>
+          <video class="tutorial_video" controls>
+            <source src="file:///C:/ProgramData/Autodesk/Revit/Addins/MarathonScripts/MarathonHelp/web/videos/fit_floorplan_crop_1.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+          </video> 
+
+        </div>
+      </div>
+      <!-- /#page-content-wrapper -->
+
+    </div>
+    <!-- /#wrapper -->
+
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- JS functions -->
+    <script>
+      $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#wrapper").toggleClass("toggled");
+      });
+
+      String.prototype.format = function() {
+        var args = arguments;
+        return this.replace(/{(\d+)}/g, function(match, number) { 
+          return typeof args[number] != 'undefined'
+            ? args[number]
+            : match
+          ;
+        });
+      };
+      
+      function scrollToTargetAdjusted(tag)
+      {
+        
+        var element = document.getElementById(tag);
+        var headerOffset = document.querySelector('#top-navbar').offsetHeight + 15;
+        var elementPosition = Math.floor(element.getBoundingClientRect().top);
+        var offsetPosition = elementPosition - headerOffset;
+
+        window.scrollTo({
+            top: window.pageYOffset + offsetPosition,
+            behavior: "smooth"
+        });
+      }
+    </script>
+
+  </body>
+</html>
